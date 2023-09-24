@@ -36,7 +36,7 @@ Python期末Project-貪吃蛇
         大歉收：目前生成量減半
         厄運：期間內只發動負面效果
 ## 遊戲介面
-![](https://imgur.com/wPicgKw)
+![](https://imgur.com/wPicgKw.jpg)
 
 ## 作者
 中興資工 黃竑睿
